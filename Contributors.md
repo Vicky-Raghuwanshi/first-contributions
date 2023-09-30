@@ -997,6 +997,7 @@ Nikhil R
 - [Chandan Sahu] (https://github.com/ChandanSahu98)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Rasmus Gehle](https://github.com/RasmusHMG)
+- [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi07)
 - [Alexander Konnaris](https://github.com/alexkonnaris)
 - [Abdi Jama](https://github.com/ajama21/)
 - [kenken](https://github.com/kenfaz)
